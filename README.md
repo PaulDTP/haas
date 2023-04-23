@@ -1,2 +1,2 @@
-# haas
-Summer 2021 Haas Module
+# Haas School of Business, Berkeley, CA
+Summer Haas Module
